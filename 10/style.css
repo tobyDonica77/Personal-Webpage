@@ -1,0 +1,91 @@
+
+.blue {
+    background-color: blue;
+    font-size: xx-large;
+}
+
+
+body{
+    background-color: #262326;
+    background-image: url("images/marvel.jpg");
+    background-size: contain;
+}
+
+button {
+    margin-left: 47%;
+}
+.entry {
+    background-image:"images/colorado.jpg" ;
+    background-size: cover;
+    height: 300px;
+    width: 50%;
+    
+}
+
+header {
+    background-color: transparent;
+    color: #262326;
+    text-align: center;
+    font-size: 100px;
+    font-family: "Allerta Stencil", Sans-serif;
+    font-weight:900;
+    text-shadow: 2px 2px grey;
+}
+
+h1{
+    text-align: center;
+    font-family:"Allerta Stencil", Sans-serif;
+    color: grey;
+}
+
+p{
+    text-align: center;
+    font-family: "Allerta Stencil", Sans-serif;
+
+}
+
+.p1{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+}
+
+.panel {
+    background-color: #262326;
+  
+    margin-bottom: 8%;
+    padding: 10px;
+    color:red;
+}
+
+.pug {
+    background-color:  red;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-bottom: 5%;
+    padding-bottom: 5%;
+    padding-top: 2%;
+    font-size: 40px;
+    color:#262326;
+}
+
+img {
+    padding-top: .2px;
+    
+    margin: auto;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .fa:hover {
+    opacity: 0.7;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
